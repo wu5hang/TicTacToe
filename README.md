@@ -1,2 +1,2 @@
 # TicTacToe
-Tried this game in simplest way possible
+Tried this game in simplest way possible for begenners
