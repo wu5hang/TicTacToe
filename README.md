@@ -1,5 +1,6 @@
 # TicTacToe
+
+
 Tic-Tac-Toe Game with basic java functions.
 
-To check code:-
-TicTacToe > src > TicTacToe.java
+(Check "TicTacToe.java" file for source code)
