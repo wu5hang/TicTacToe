@@ -1,2 +1,5 @@
 # TicTacToe
-Tried this game in simplest way possible for begenners
+Tic-Tac-Toe Game with basic java functions.
+
+To check code:-
+TicTacToe > src > TicTacToe.java
